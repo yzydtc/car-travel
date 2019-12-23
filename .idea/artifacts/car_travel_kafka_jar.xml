@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="car-travel-kafka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/car_travel_kafka_jar</output-path>
+    <root id="archive" name="car-travel-kafka.jar" />
+  </artifact>
+</component>
